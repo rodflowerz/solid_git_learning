@@ -2,4 +2,4 @@
 
 This is an excercise for the 2023 Git Class.
 
-![gif](https://images.lecho.be/view?iid=Elvis:1gnss1X2afnBK747iR0dzK&context=ONLINE&ratio=16/9&width=640&u=1648135001000)
+![gif](https://media1.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif?cid=6c09b952dh3hngyws5wx273e4kgh9l6dnw61j8uqi1x0ytx0&rid=giphy.gif&ct=g)
